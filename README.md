@@ -1,2 +1,2 @@
 # Minigames-Python
-Membuat Game Pacman sederhana menggunakan Python
+Membuat Game Pacman dan Snake sederhana menggunakan Python
